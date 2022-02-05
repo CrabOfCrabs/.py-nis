@@ -5,4 +5,4 @@ Pp rotate gif spit
 
 when run makes a rotating pp and saves it as gif
 
-my first python project
+bloat
